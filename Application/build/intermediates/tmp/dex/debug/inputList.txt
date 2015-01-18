@@ -1,0 +1,2 @@
+/Android/AndroidStudioProjects/CardView/Application/build/intermediates/classes/debug
+/Android/AndroidStudioProjects/CardView/Application/build/intermediates/pre-dexed/debug/classes-5c45c799e75476bedc5518d9762f9a46ff9c8f91.jar
