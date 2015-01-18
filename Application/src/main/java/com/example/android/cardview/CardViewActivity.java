@@ -18,6 +18,7 @@ package com.example.android.cardview;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 
 /**
  * Launcher Activity for the CardView sample app.
@@ -26,12 +27,14 @@ public class CardViewActivity extends Activity {
 
 
 
-    // bla bla
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_card_view);
+
+        Log.d("adiel","just checking github");
+
         if (savedInstanceState == null) {
             getFragmentManager().beginTransaction()
                     .add(R.id.container, CardViewFragment.newInstance())
