@@ -24,7 +24,7 @@ import android.os.Bundle;
  */
 public class CardViewActivity extends Activity {
 
-    // first chang
+    // first change
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
